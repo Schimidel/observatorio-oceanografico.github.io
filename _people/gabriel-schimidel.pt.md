@@ -23,7 +23,7 @@ slug: gabriel-schimidel
 
 ## Apresentação
 
-Olá! Meu nome é Gabriel Schimidel Ramos de Oliveira, tenho 25 anos e atualmente curso Engenharia de Recursos Hídricos e Meio Ambiente na Universidade Federal Fluminense (UFF) 🎓. Desde os primeiros períodos da graduação, desenvolvi um grande interesse por Ciência de Dados aplicada ao meio ambiente, com foco especial em climatologia, hidrologia e modelagem numérica buscando entender como técnicas estatísticas e a Inteligência Artificial podem contribuir para a área ambiental 🤖🌱.
+Olá! Meu nome é Gabriel Schimidel Ramos de Oliveira, tenho 25 anos e atualmente curso Engenharia de Recursos Hídricos e Meio Ambiente na Universidade Federal Fluminense (UFF) 🎓. Desde os primeiros períodos da graduação, desenvolvi um grande interesse por Ciência de Dados aplicada ao meio ambiente, com foco especial em climatologia, hidrologia e modelagem numérica buscando entender como técnicas estatísticas e a Inteligência Artificial podem contribuir para a área ambiental 🤖🌱. 
 
 Atualmente, como bolsista de Iniciação Científica, desenvolvo pesquisa focada na previsão de eventos extremos de ondas por meio de machine learning 🌊💻. Esse projeto tem me proporcionado uma maior compreensão de como modelos de aprendizado de máquina são utilizados na área ambiental.
 
